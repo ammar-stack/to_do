@@ -1,16 +1,10 @@
 # todo_app
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="250" height="550" alt="image" src="https://github.com/user-attachments/assets/cf3f70dc-3c11-4ac6-bab9-42ec1cc83dcb" />
+<img width="250" height="550" alt="image" src="https://github.com/user-attachments/assets/52df4873-7007-4b44-a373-4be407cfa34b" />
+<img width="250" height="550" alt="image" src="https://github.com/user-attachments/assets/6cb55193-bdc0-4a7a-b59a-175611a02941" />
+<img width="250" height="550" alt="image" src="https://github.com/user-attachments/assets/35257e17-d29f-49e2-b640-34a46b5982cf" />
+<img width="250" height="550" alt="image" src="https://github.com/user-attachments/assets/56fca431-f6bf-4db3-9443-d6b12b4976d4" />
+<img width="250" height="550" alt="image" src="https://github.com/user-attachments/assets/f65091c4-92d0-4d18-88a3-1a36ca7ea5d3" />
+<img width="250" height="550" alt="image" src="https://github.com/user-attachments/assets/d4ab0955-1a61-48ee-af3c-985a0ffa7dd7" />
