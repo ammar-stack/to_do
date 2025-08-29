@@ -125,6 +125,7 @@ class _HomePageState extends State<HomePage> {
                         Dbhelper.instance.updateToDo(
                           ToDoModal(
                             id: dataa[index].id,
+                            todo: dataa[index].todo,
                             isdone: value == false ? 0 : 1,
                           ),
                         );
